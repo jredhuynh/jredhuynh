@@ -4,8 +4,8 @@ subtitle: by HTML5 UP
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog forty-jekyll-theme
-url: http://localhost:4000 # the base hostname & protocol for your site
-# url: http://jredhuynh.github.io
+#url: http://localhost:4000 # the base hostname & protocol for your site
+url: http://jredhuynh.github.io
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
